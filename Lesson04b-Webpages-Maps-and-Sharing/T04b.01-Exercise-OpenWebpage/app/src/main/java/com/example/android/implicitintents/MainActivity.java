@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
         String url = "https://caffenio.com/";
 
         // COMPLETED (6) Replace the Toast with a call to openWebPage, passing in the URL String from the previous step
-        //Toast.makeText(this, "TODO: Open a web page when this button is clicked", Toast.LENGTH_SHORT).show();
         openWebPage(url);
     }
 
